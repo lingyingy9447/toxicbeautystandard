@@ -11029,3 +11029,8 @@ p {
   font-weight: 200;
   font-style: italic;
 }
+
+.aboutSubHeading {
+  font-size:30px;
+  font-weight:200;
+}
