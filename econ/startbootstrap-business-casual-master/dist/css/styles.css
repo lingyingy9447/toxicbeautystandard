@@ -7658,7 +7658,7 @@ textarea.form-control-lg {
 }
 
 .mb-5 {
-  margin-bottom: 3rem !important;
+  margin-bottom: 2rem !important;
 }
 
 .mb-auto {
@@ -11019,8 +11019,13 @@ p {
 }
 
 
-
 .source {
   font-size: 13px;
   color:#808080
+}
+
+.misson {
+  font-size: 25px;
+  font-weight: 200;
+  font-style: italic;
 }
