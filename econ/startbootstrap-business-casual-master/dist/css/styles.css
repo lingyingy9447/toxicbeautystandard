@@ -11031,6 +11031,15 @@ p {
   font-style: italic;
 }
 
+.resource{
+  font-size: 30px;
+  font-weight: 200;
+}
+
+.resource2{
+  font-size: 17px;
+}
+
 .aboutSubHeading {
   font-size:30px;
   font-weight:200;
