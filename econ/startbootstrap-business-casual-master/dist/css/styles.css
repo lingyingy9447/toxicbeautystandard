@@ -11035,3 +11035,8 @@ p {
   font-size:30px;
   font-weight:200;
 }
+
+.pic {
+  width: 750px;
+  height: 500px;
+}
