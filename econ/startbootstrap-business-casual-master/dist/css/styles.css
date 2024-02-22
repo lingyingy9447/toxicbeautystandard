@@ -11040,3 +11040,15 @@ p {
   width: 600px;
   height: 350px;
 }
+
+#water {
+  text-align: center;
+}
+
+.visual {
+  width: 300px;
+  height: 200px;
+  border-radius: 30%;
+  padding: 10px 10px;
+  border: 2px dashed white;
+}
