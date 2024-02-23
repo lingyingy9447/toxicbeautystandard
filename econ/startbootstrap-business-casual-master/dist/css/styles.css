@@ -10864,7 +10864,7 @@ p {
 }
 .section-heading .section-heading-lower {
   display: block;
-  font-size: 3rem;
+  font-size: 2.6rem;
   font-weight: 100;
 }
 
@@ -11030,6 +11030,17 @@ p {
   font-size: 25px;
   font-weight: 200;
   font-style: italic;
+}
+
+.resource{
+  font-size: 30px;
+  font-weight: 200;
+  /* color: */
+  font-style: italic;
+}
+
+.resource2{
+  font-size: 17px;
 }
 
 .aboutSubHeading {
