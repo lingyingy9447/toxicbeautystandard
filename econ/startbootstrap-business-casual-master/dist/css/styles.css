@@ -11073,3 +11073,7 @@ p {
   border: 5px solid #a98467;
 }
 
+.action {
+  /* height: 200px; */
+  width: 200px;
+}
