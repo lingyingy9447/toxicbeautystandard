@@ -11034,8 +11034,8 @@ p {
 
 .resource{
   font-size: 30px;
-  font-weight: 200;
-  /* color: */
+  font-weight: 400;
+  color: #bc4749;
   font-style: italic;
 }
 
@@ -11068,3 +11068,8 @@ p {
   /* padding-top: 20px; */
   border: 1px dashed white;
 }
+
+.flower {
+  border: 5px solid #ffb5a7;
+}
+
