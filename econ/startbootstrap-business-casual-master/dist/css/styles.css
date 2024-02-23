@@ -11034,6 +11034,8 @@ p {
 .resource{
   font-size: 30px;
   font-weight: 200;
+  /* color: */
+  font-style: italic;
 }
 
 .resource2{
