@@ -11058,12 +11058,11 @@ p {
   text-align: center;
   padding: 20px 20px;
   padding-top: 20px;
-
 }
 
 .visual {
-  width: 350px;
-  height: 250px;
+  width: 500px;
+  height: 300px;
   /* border-radius: 30%; */
   padding: 5px 5px;
   /* padding-top: 20px; */
@@ -11087,4 +11086,10 @@ p {
 .link {
   font-size:20px;
   color:#bc4749;
+}
+
+#figure {
+  padding-top: 20px;
+  font-size: 20px;
+  color: #8c2f39;
 }
